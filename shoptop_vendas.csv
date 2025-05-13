@@ -1,0 +1,11 @@
+Produto,Categoria,Preco,DataVenda,Regiao,Quantidade,Desconto
+Smartphone A,Eletrônicos,1999.9,2024-11-22,Sudeste,120,10
+Notebook B,Informática,3999.0,2024-11-25,Sul,80,15
+Fone C,Eletrônicos,299.99,2024-11-23,Nordeste,200,5
+TV 50'',Eletrodomésticos,2599.0,2024-11-24,Centro-Oeste,65,20
+Tablet D,Informática,1499.0,2024-11-22,Sudeste,90,12
+Monitor 27'',Informática,1199.0,2024-11-25,Sul,75,10
+Headset Gamer,Eletrônicos,499.0,2024-11-23,Norte,140,8
+Geladeira X,Eletrodomésticos,3599.0,2024-11-24,Nordeste,40,25
+Mouse Sem Fio,Informática,159.9,2024-11-22,Centro-Oeste,150,7
+Soundbar Z,Eletrônicos,899.9,2024-11-25,Sudeste,60,18
